@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-*changed background color
-*using slider to adjust percentage
+1. changed background color
+2. using slider to adjust percentage
 
 ## Video Walkthrough
 
