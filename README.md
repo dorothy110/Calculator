@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://recordit.co/ZfMC0nu8Gc' title='Video IOS Calculator' width='' alt='Video IOS Calculator' />
+![](http://g.recordit.co/ZfMC0nu8Gc.gif)
+<img src='http://g.recordit.co/ZfMC0nu8Gc.gif' title='Video IOS Calculator' width='' alt='Video IOS Calculator' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
