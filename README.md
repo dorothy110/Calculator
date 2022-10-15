@@ -16,24 +16,15 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+#sign in
 
-<img src='http://g.recordit.co/4hSQvZLWLv.gif' title='Video IOS Calculator' width='' alt='Video IOS Calculator' />
+<img src='http://g.recordit.co/nXSrfcSKjh.gif' title='Video IOS Calculator' width='' alt='Video IOS Calculator' />
+
+# sign up
+
+<img src='http://g.recordit.co/SiLb3P0CI4.gif' title='Video IOS Calculator' width='' alt='Video IOS Calculator' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
-## License
 
-    Copyright [2022] [Baolu Yu(Dorothy)]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
